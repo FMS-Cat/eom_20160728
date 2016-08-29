@@ -16,8 +16,7 @@ PICO-8 ポリゴン表現 真骨頂
 
 元ネタはBoing Ballという、AmigaというホビーPCの性能をデモンストレーションするためのDemoです。  
 このボールはDemosceneを象徴するシンボルとして親しまれています。  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ssUleIBKOW8" frameborder="0" allowfullscreen></iframe>  
+https://www.youtube.com/watch?v=ssUleIBKOW8  
 
 ## Pokémon GO  
 
