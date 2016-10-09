@@ -12,7 +12,7 @@ PICO-8
 ## POKE-8
 
 PICO-8 ポリゴン表現 真骨頂  
-[ここまでのあらすじ](https://github.com/FMS-Cat/eom_20160721)  
+[ここまでのあらすじ](https://github.com/fms-cat-eom/20160721)  
 
 ## Boing Ball
 
@@ -42,4 +42,4 @@ https://www.youtube.com/watch?v=ssUleIBKOW8
 ただ、このアルゴリズムはさすがに少し重いため、これ以上ポリゴンを増やすと処理が追いつかず、普通の球体をポリゴンとする手法では、いびつな形のものしか実現できませんでした。  
 そこで今回は、整った形の球体を少ないポリゴン数で実現するため、八面体を分割していき球体の形とする手法を実装しました。  
 
-詳しくは [eom_20160825](https://github.com/FMS-Cat/eom_20160825) をご覧ください。  
+詳しくは [eom_20160825](https://github.com/fms-cat-eom/20160825) をご覧ください。  
