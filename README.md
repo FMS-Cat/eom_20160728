@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160728 "POKE-8"
+# Everyday One Motion - 20160728  
 
-![](20160728.gif)
+"POKE-8"  
 
-PICO-8
+![](20160728.gif)  
+
+PICO-8  
 
 [Everyday One Motion](http://motions.work/motion/338)  
 [Cartridge](http://www.lexaloffle.com/bbs/?tid=3942)  
